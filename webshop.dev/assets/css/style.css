@@ -1,0 +1,28 @@
+.well {
+  background-color: #f8f9fa !important;
+  margin-bottom: 10px;
+}
+
+.btn-share {
+	margin-bottom: 10px;
+}
+
+body {
+  padding-top: 70px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.radio-group {
+	margin-bottom: 20px;
+}
+
+.input-group {
+	margin-bottom: 10px;
+}
+
+.input-group {
+	margin-left: -15px;
+}
